@@ -40,7 +40,7 @@ After that the data was downloaded in a csv file.
 ## Dasboard
 There was dashboard creation on Tableau using the data above that was downloaded in a csv file:
 
-![image](https://github.com/stephaniaslis/The-Look-ecommerce/assets/82055743/eeac064b-efe3-4b9d-9c08-5baa6f25fae1)
+![image](https://github.com/stephaniaslis/The-Look-ecommerce/assets/82055743/f358dfdd-7199-48f0-acb5-0c86f5f78a03)
 
 link : https://public.tableau.com/views/Dashboardthelookecommerce/DashboardTHeLookEcommerce?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
@@ -63,7 +63,7 @@ China and Americas are very dense regarding orders by country, the Revenue of so
 - 390K (US)
 - 257K (Brazil)
 
-All these countries together are responsible for arround 75% of the total revenue. Europe is also dense regarding it but there are many countries accros the continent.
+All these countries together are responsible for arround 70% of the total revenue. Europe is also dense regarding it but there are many countries accros the continent.
 
 The return rate is higher to clothing items in comparison to other categories.
 
