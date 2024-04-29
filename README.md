@@ -38,8 +38,41 @@ WHERE orders.status NOT LIKE "Cancelled";
 After that the data was downloaded in a csv file.
 
 ## Dasboard
-There was dashbord creation using Tableau:
+There was dashboard creation on Tableau using the data above that was downloaded in a csv file:
 
-![image](https://github.com/stephaniaslis/The-Look-ecommerce/assets/82055743/1103a380-349e-4756-b20b-125f51c33b86)
+![image](https://github.com/stephaniaslis/The-Look-ecommerce/assets/82055743/eeac064b-efe3-4b9d-9c08-5baa6f25fae1)
 
 link : https://public.tableau.com/views/Dashboardthelookecommerce/DashboardTHeLookEcommerce?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+
+On the dashboard there are some KPIs as:
+- AVO
+- Average shiping time
+- Revenue
+- Markup
+- Top 10 sellers by category
+- Orders by country
+- Return rate (at least 5 items)
+
+## Insights
+The  Look ecommerce has an ascending Revenue along the time and there is a high growth since the end of 2023.
+
+The markup is arround 50% per quarter and the top sellers are mostly related to clothing items.
+
+China and Americas are very dense regarding orders by country, the Revenue of some countries in these areas are:
+- 613K (China)
+- 390K (US)
+- 257K (Brazil)
+
+All these countries together are responsible for arround 75% of the total revenue. Europe is also dense regarding it but there are many countries accros the continent.
+
+The return rate is higher to clothing items in comparison to other categories.
+
+## Conclusions
+In the dashboard we can see a good oppotunity to sell clothing products but It's good to keep an eye on the return rate because the high return rate for some products might not worth to sell them.
+
+Regarding the countries US, China and Brazil are a good market to explore, Europe is also a good market althought there are many different countries inside it so the consumption pattern may vary from country to country. 
+
+## Next steps and improvements
+- Validate the dashboard with stakeholders
+- Ad a top 10 seller countries
+- Explore more the European market and the validate if the comsumption pattern changes from country to country 
